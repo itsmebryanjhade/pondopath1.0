@@ -1,0 +1,11 @@
+{
+  "title": "soloforge2.0",
+  "description": "Helps Philippine small businesses track collections, expenses, and 30-day cash forecasts to spot shortfalls and plan payment follow-ups with AI-assisted insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
